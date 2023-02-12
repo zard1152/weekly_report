@@ -5,7 +5,8 @@ This project generate weekly report with simple sentence for you using AI.
 
 [![Weekly Report](./public/screenshot.jpg)](https://weeklyreport.avemaria.fun/zh)
 
-project source: https://github.com/guaguaguaxia/weekly_report
+# Project source: 
+https://github.com/guaguaguaxia/weekly_report
 
 ## How it works
 
